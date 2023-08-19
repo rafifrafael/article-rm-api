@@ -5,7 +5,7 @@
     ],
     "rewrites": [
         {
-            "source": "/(css|js|images)/(.*)",
+            "source": "/(uploads)/(.*)",
             "destination": "public/$1/$2"
         },
         {
