@@ -16,12 +16,13 @@ Change the .env:
 ```sh
 mv .env.dev .env
 ```
+edit the .env to match your setting
 
 Install Dependencies:
 ```sh
 composer install
 ```
-Create DB with name = article
+Create DB with name = article or based on your .env
 
 Run Database Migrations:
 ```sh
