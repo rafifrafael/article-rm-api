@@ -43,6 +43,7 @@ $RECYCLE.BIN/
 # as it poses a security risk.
 .vagrant
 Vagrantfile
+.env
 
 #-------------------------
 # Temporary Files
@@ -115,7 +116,6 @@ nb-configuration.xml
 *.sublime-workspace
 *.sublime-project
 .phpintel
-.env
 
 # Visual Studio Code
 .vscode/
