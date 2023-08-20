@@ -115,6 +115,7 @@ nb-configuration.xml
 *.sublime-workspace
 *.sublime-project
 .phpintel
+.env
 
 # Visual Studio Code
 .vscode/
