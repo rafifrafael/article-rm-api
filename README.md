@@ -12,6 +12,11 @@ Navigate to the Project Directory:
 cd article-rm-api
 ```
 
+Change the .env:
+```sh
+mv .env.dev .env
+```
+
 Install Dependencies:
 ```sh
 composer install
