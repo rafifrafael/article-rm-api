@@ -51,7 +51,7 @@ class Articles extends Migration
                 'default' => 0
             ],
             'published_on' => [
-                'type' => 'DATE',
+                'type' => 'TIMESTAMP',
                 'null' => false,
                 'default' => 'CURRENT_TIMESTAMP'
             ],
