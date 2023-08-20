@@ -21,6 +21,7 @@ Install Dependencies:
 ```sh
 composer install
 ```
+Create DB with name = article
 
 Run Database Migrations:
 ```sh
