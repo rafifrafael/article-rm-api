@@ -23,7 +23,7 @@ class Categories extends Migration
         ]);
     
         $this->forge->addPrimaryKey('id');
-        $this->forge->createTable('names_table'); // Change 'names_table' if you want another name for the table
+        $this->forge->createTable('categories');
     }
     
 
